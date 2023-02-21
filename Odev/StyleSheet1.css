@@ -1,0 +1,18 @@
+﻿body {
+    background-color: black;
+    color: aqua;
+    font-weight: bold;
+}
+
+.buton{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    height:50px;
+    width: 150px;
+    
+}
+.buton:hover{
+    background-color: white;
+    color: blue;
+}
